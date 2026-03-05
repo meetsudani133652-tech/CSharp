@@ -1,0 +1,7 @@
+D:\pushpraj_7059\bca-4\program-13\obj\Debug\program-13.csproj.AssemblyReference.cache
+D:\pushpraj_7059\bca-4\program-13\obj\Debug\program-13.csproj.CoreCompileInputs.cache
+D:\pushpraj_7059\bca-4\program-13\bin\Debug\program-13.exe.config
+D:\pushpraj_7059\bca-4\program-13\bin\Debug\program-13.exe
+D:\pushpraj_7059\bca-4\program-13\bin\Debug\program-13.pdb
+D:\pushpraj_7059\bca-4\program-13\obj\Debug\program-13.exe
+D:\pushpraj_7059\bca-4\program-13\obj\Debug\program-13.pdb
