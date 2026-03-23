@@ -1,0 +1,7 @@
+D:\7367 C#\Program21\Program21\bin\Debug\Program21.exe.config
+D:\7367 C#\Program21\Program21\bin\Debug\Program21.exe
+D:\7367 C#\Program21\Program21\bin\Debug\Program21.pdb
+D:\7367 C#\Program21\Program21\obj\Debug\Program21.csproj.AssemblyReference.cache
+D:\7367 C#\Program21\Program21\obj\Debug\Program21.csproj.CoreCompileInputs.cache
+D:\7367 C#\Program21\Program21\obj\Debug\Program21.exe
+D:\7367 C#\Program21\Program21\obj\Debug\Program21.pdb

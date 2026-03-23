@@ -1,0 +1,7 @@
+D:\7367 C#\Program20\Program20\bin\Debug\Program20.exe.config
+D:\7367 C#\Program20\Program20\bin\Debug\Program20.exe
+D:\7367 C#\Program20\Program20\bin\Debug\Program20.pdb
+D:\7367 C#\Program20\Program20\obj\Debug\Program20.csproj.AssemblyReference.cache
+D:\7367 C#\Program20\Program20\obj\Debug\Program20.csproj.CoreCompileInputs.cache
+D:\7367 C#\Program20\Program20\obj\Debug\Program20.exe
+D:\7367 C#\Program20\Program20\obj\Debug\Program20.pdb
